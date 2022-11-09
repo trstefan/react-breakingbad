@@ -1,7 +1,7 @@
 
 # BreakingBad React app
 
-React application that consumes BreakingBad to display the characters of Breaking Bad along with their details.
+React application that consumes BreakingBad API to display the characters of Breaking Bad along with their details.
 
 ## Demo
 
