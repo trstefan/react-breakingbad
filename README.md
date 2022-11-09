@@ -5,7 +5,7 @@ React application that consumes BreakingBad API to display the characters of Bre
 
 ## Demo
 
-Here is a working live demo : [_trstefan.github.io/react-breakingbad/_](trstefan.github.io/react-breakingbad/)
+Here is a working live demo : [_trstefan.github.io/react-breakingbad/_](https://trstefan.github.io/react-breakingbad/)
 
 ## Screenshots
 ![Alternate image text](https://i.ibb.co/DgZxmdT/bb.gif)
