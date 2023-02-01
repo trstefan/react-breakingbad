@@ -1,30 +1,31 @@
-
-# BreakingBad React app
-
-React application that consumes BreakingBad API to display the characters of Breaking Bad along with their details.
+# BreakingBad App - ReactJS
 
 ## Demo
 
-Here is a working live demo : [_trstefan.github.io/react-breakingbad/_](https://trstefan.github.io/react-breakingbad/)
+[Demo Link](https://trstefan.github.io/react-breakingbad/)
 
-## Screenshots
+## 📷 Screenshots
 ![Alternate image text](https://i.ibb.co/DgZxmdT/bb.gif)
 
-## Built With
-  - HTML
-  - CSS
-  - Javascript
+
+## 📝 Project Description
+
+React application that consumes BreakingBad API to display the characters of Breaking Bad along with their details.
+
+## 📚 Built With
+
   - React
   - React Hooks (useState,  useEffect)
+  - CSS
   - Axios
 
-## Features
+## 🎯  Features
   - View all the characters
   - View personal details about each character
   - Flip card effect 
   - Cross platform and mobile friendly
 
-## Run locally
+## :runner: Run locally
 
 Clone the project
 
@@ -50,8 +51,7 @@ Start the server
   npm run start
 ```
 
-## Acknowledgements
+## ⭐ Acknowledgements
 
  - [The Breaking Bad API](https://breakingbadapi.com/)
  - [Axios](https://www.npmjs.com/package/axios)
-
