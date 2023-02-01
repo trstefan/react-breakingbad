@@ -12,7 +12,7 @@
 
 React application that consumes BreakingBad API to display the characters of Breaking Bad along with their details.
 
-## 📚 Built With
+## 📚 Technologies
 
   - React
   - React Hooks (useState,  useEffect)
